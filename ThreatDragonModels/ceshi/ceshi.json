@@ -1,9 +1,12 @@
 {
   "summary": {
-    "title": "ceshi"
+    "title": "ceshi",
+    "owner": "xx",
+    "description": "xx"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [],
+    "reviewer": "xx"
   }
 }
